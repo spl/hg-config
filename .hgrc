@@ -1,0 +1,7 @@
+[extensions]
+pager =
+color =
+
+[pager]
+pager = LESS='FRX' less
+quiet = True
