@@ -1,6 +1,7 @@
 [extensions]
 pager =
 color =
+rebase =
 
 [alias]
 lo = log
