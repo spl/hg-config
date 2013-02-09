@@ -5,6 +5,9 @@ rebase =
 
 [alias]
 lo = log
+__mystatus = status
+status = !hg __mystatus $($HG root) $HG_ARGS
+st = !hg __mystatus $($HG root) $HG_ARGS
 
 [pager]
 pager = LESS='FRX' less
