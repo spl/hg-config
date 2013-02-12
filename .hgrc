@@ -2,6 +2,7 @@
 pager =
 color =
 rebase =
+mq =
 
 [alias]
 lo = log
