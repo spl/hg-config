@@ -13,4 +13,4 @@ st = !hg __mystatus $($HG root) $HG_ARGS
 [pager]
 pager = LESS='FRX' less
 quiet = True
-attend = annotate, cat, diff, export, glog, log, lo, qdiff
+attend = annotate, cat, diff, export, glog, help, log, lo, qdiff
